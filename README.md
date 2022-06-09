@@ -15,6 +15,9 @@ The tools are:
 * **Git**
 * **Command Line** (linux)
 
+##Where can I see the site?
+[Here!](https://mantrazul.github.io/odin-recipes/index.html)
+
 ## What were the challenges?
 
 1. The first challenge was to build a proper README.md. I was using HTML formatting for it until I realized that it worked with **_Markdown_**. This is visible in the first commit, will leave it there as a lesson to be learned.
