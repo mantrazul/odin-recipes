@@ -10,7 +10,7 @@
 
 ## What tools will be used?
 
-The tools used as a sign of mastery are:
+The tools are:
 * **HTML**
 * **Git**
 * **Command Line** (linux)
